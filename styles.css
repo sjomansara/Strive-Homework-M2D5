@@ -16,3 +16,7 @@ h6 span {
     padding: 6px 10px 6px 10px;
     border-radius: .2rem;
 }
+
+#sharp {
+    border-radius: 0 !important;
+  }
