@@ -1,3 +1,12 @@
 body {
     background-color:#262626 !important;
 }
+
+a {
+    text-decoration: none !important;
+    color: grey;
+}
+
+a:hover {
+    color: white;
+}
